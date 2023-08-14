@@ -1,6 +1,6 @@
 
 # SQLite database
-src/db/litebase.sqlite
+*.sqlite
 
 # Ignore modules
 node_modules/
