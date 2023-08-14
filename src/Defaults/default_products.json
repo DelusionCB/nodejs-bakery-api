@@ -1,0 +1,346 @@
+[
+  {
+    "name": "Cupcake",
+    "description": "A delicious and fluffy cupcake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 20.00,
+    "currency": "eur"
+  },
+  {
+    "name": "Donut",
+    "description": "A sweet and glazed donut.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 10.00,
+    "currency": "eur"
+  },
+  {
+    "name": "Chocolate Cake",
+    "description": "A rich and moist chocolate cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 30.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Macaron",
+    "description": "A delicate and colorful macaron.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 8.00,
+    "currency": "eur"
+  },
+  {
+    "name": "Pancake",
+    "description": "A fluffy and syrupy pancake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 15.00,
+    "currency": "eur"
+  },
+  {
+    "name": "Brownie",
+    "description": "A fudgy and chocolatey brownie.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 12.27,
+    "currency": "eur"
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "description": "A fruity and creamy strawberry shortcake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 17.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Cheesecake",
+    "description": "A smooth and tangy cheesecake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 25.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Muffin",
+    "description": "A moist and flavorful muffin.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 6.99,
+    "currency": "eur"
+  },
+  {
+    "name": "Tiramisu",
+    "description": "A classic and coffee-flavored tiramisu.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 21.85,
+    "currency": "eur"
+  },
+  {
+    "name": "Lemon Tart",
+    "description": "A zesty and tangy lemon tart.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 13.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Eclair",
+    "description": "A delicate and cream-filled eclair.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 11.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Carrot Cake",
+    "description": "A moist and spiced carrot cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 19.95,
+    "currency": "eur"
+  },
+  {
+    "name": "Fruit Tart",
+    "description": "A colorful and fruit-topped tart.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 14.80,
+    "currency": "eur"
+  },
+  {
+    "name": "Pavlova",
+    "description": "A crispy and meringue-based pavlova.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 22.65,
+    "currency": "eur"
+  },
+  {
+    "name": "Red Velvet Cake",
+    "description": "A rich and velvety red velvet cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 16.30,
+    "currency": "eur"
+  },
+  {
+    "name": "Apple Pie",
+    "description": "A comforting and apple-filled pie.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 18.40,
+    "currency": "eur"
+  },
+  {
+    "name": "Cannoli",
+    "description": "A crispy and ricotta-filled cannoli.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 9.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Fudge",
+    "description": "A creamy and chocolate fudge.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 8.90,
+    "currency": "eur"
+  },
+  {
+    "name": "Mille Feuille",
+    "description": "A layered and flaky mille feuille.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 12.95,
+    "currency": "eur"
+  },
+  {
+    "name": "Panna Cotta",
+    "description": "A creamy and Italian panna cotta.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 15.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Lava Cake",
+    "description": "A decadent and gooey lava cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 12.80,
+    "currency": "eur"
+  },
+  {
+    "name": "Tartufo",
+    "description": "A rich and chocolatey tartufo dessert.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 17.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Scone",
+    "description": "A crumbly and delicious scone.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 7.25,
+    "currency": "eur"
+  },
+  {
+    "name": "Banana Bread",
+    "description": "A moist and banana-flavored bread.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 9.90,
+    "currency": "eur"
+  },
+  {
+    "name": "Fruit Salad",
+    "description": "A refreshing and colorful fruit salad.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 6.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Creme Brulee",
+    "description": "A classic and caramelized creme brulee.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 14.25,
+    "currency": "eur"
+  },
+  {
+    "name": "Coconut Macaroon",
+    "description": "A chewy and coconut-flavored macaroon.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 8.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Baklava",
+    "description": "A sweet and nutty baklava pastry.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 13.99,
+    "currency": "eur"
+  },
+  {
+    "name": "Eton Mess",
+    "description": "A delightful and fruity Eton Mess dessert.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 11.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Key Lime Pie",
+    "description": "A tangy and refreshing key lime pie.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 18.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Mousse",
+    "description": "A light and creamy mousse dessert.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 9.25,
+    "currency": "eur"
+  },
+  {
+    "name": "Biscotti",
+    "description": "A crunchy and almond-flavored biscotti.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 7.80,
+    "currency": "eur"
+  },
+  {
+    "name": "Rice Pudding",
+    "description": "A comforting and creamy rice pudding.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 8.99,
+    "currency": "eur"
+  },
+  {
+    "name": "Profiterole",
+    "description": "A filled and pastry profiterole.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 13.20,
+    "currency": "eur"
+  },
+  {
+    "name": "Lemon Bars",
+    "description": "A zesty and lemony dessert bar.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 11.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Cannelloni",
+    "description": "A savory and pasta-filled cannelloni dish.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 3.5,
+    "price": 14.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Fruit Sorbet",
+    "description": "A refreshing and fruit-flavored sorbet.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 5,
+    "price": 6.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Tapioca Pudding",
+    "description": "A creamy and tapioca-based pudding.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 9.80,
+    "currency": "eur"
+  },
+  {
+    "name": "Baklava Cheesecake",
+    "description": "A fusion of baklava and cheesecake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 21.99,
+    "currency": "eur"
+  },
+  {
+    "name": "Tres Leches Cake",
+    "description": "A moist and three-milk soaked cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 16.50,
+    "currency": "eur"
+  },
+  {
+    "name": "Churros",
+    "description": "A sweet and cinnamon-dusted churros dessert.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4,
+    "price": 8.75,
+    "currency": "eur"
+  },
+  {
+    "name": "Napoleon Cake",
+    "description": "A layered and custard-filled Napoleon cake.",
+    "image_placeholder": "https://www.thomsonsmartcook.com/wp-content/uploads/2019/09/Sweet-shortcrust-pastry-1-650x650.jpg",
+    "rating": 4.5,
+    "price": 18.99,
+    "currency": "eur"
+  }
+]

@@ -1,0 +1,9 @@
+
+# SQLite database
+./src/db/litebase.sqlite
+
+# Ignore modules
+node_modules/
+
+# Ignore Webstorm
+.idea

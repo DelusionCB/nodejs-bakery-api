@@ -1,0 +1,53 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+    "plugins": [
+        "import"
+    ],
+  "overrides": [
+    {
+      "files": [
+        "*.ts"
+      ]
+    }
+  ],
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "project": ["tsconfig.json"]
+  },
+  "rules": {
+    "no-use-before-define": "off",
+    "@typescript-eslint/no-use-before-define": ["error"],
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/semi": "off",
+    "no-console": "off",
+    "comma-dangle": [2, "always-multiline"],
+    "@typescript-eslint/comma-dangle": ["error", "only-multiline"],
+    "semi": "off",
+    "eol-last": [2, "always"],
+    "indent": [2, 4, {"SwitchCase":1}],
+    "@typescript-eslint/indent": [2, 4, {"SwitchCase":1}],
+    "@typescript-eslint/explicit-function-return-type": "error",
+    "@typescript-eslint/quotes": ["error", "single", {"allowTemplateLiterals": true}],
+    "quotes": [2, "single", {"avoidEscape": true, "allowTemplateLiterals": true}],
+    "@typescript-eslint/object-curly-spacing": [2, "never"],
+    "@typescript-eslint/restrict-template-expressions": "off",
+    "object-curly-spacing": [2, "never"],
+    "space-infix-ops": "error",
+    "import/no-unresolved": 0,
+    "import/named": 2,
+    "import/namespace": 2,
+    "import/default": 2,
+    "import/export": 2,
+    "no-unused-vars": 0,
+    "no-useless-escape": 0
+  }
+}
